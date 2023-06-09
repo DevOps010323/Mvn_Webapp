@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1><font color='Blue'>Welcome to Microdegree Devops Training <font></h1>
+<h1><font color='Black'>Welcome to Microdegree Devops Training <font></h1>
 <h2>Learn Here.. Lead Anywhere..!! </h2>  
 
 
